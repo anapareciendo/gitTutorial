@@ -1,0 +1,7 @@
+Prueba 1 
+Prueba 2 
+
+Los pasos serian:
+1- Actualizamos la rama develop por si se han subido cambios en nuestra ausencia
+2- Modificamos el fichero .txt y commiteamos con comentario (el comentario debe aclarar lo que se ha hecho, ej: [ADD] Test Crear paciente)
+3- Pull y Push de nuevo a la rama develop
